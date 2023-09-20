@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Brilliant Kaboi, A Full stack dev: React and node intensice
+- 👋 Hi, I’m Brilliant Kaboi, A Full stack dev: React and node/spring intensive
 - 👀 I’m interested in UX/UI and machine learning
 - 🌱 I’m currently learning Firebase, Keras for deep learning
 - 💞️ I’m looking to collaborate on Resource management systems
